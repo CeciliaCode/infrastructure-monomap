@@ -117,8 +117,6 @@ README.md
 #### **`.gitignore`**
 - Lists files and directories that should be ignored by Git during version control. This typically includes sensitive files (like secrets) or files generated during the build or deployment process.
 
----
-
 ## Prerequisites
 
 - **Terraform**: Install [Terraform](https://www.terraform.io/downloads.html) to manage infrastructure.
