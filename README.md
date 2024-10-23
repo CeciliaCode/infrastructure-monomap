@@ -1,8 +1,8 @@
 # MonoMap Infrastructure Deployment
 
-This repository provides the Terraform configuration and the necessary Docker setup to deploy the MonoMap API on a cloud-based virtual machine. The setup includes an automated SSL certificate via Let's Encrypt, a reverse proxy using Nginx, the MonoMap API, and MongoDB as the database.
-
 ![Infrastructure](https://github.com/user-attachments/assets/4867082d-a38d-4f1a-bcb6-18eef948f178)
+
+This repository provides the Terraform configuration and the necessary Docker setup to deploy the MonoMap API on a cloud-based virtual machine. The setup includes an automated SSL certificate via Let's Encrypt, a reverse proxy using Nginx, the MonoMap API, and MongoDB as the database.
 
 ## Table of Contents
 
